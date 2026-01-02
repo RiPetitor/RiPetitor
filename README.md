@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-<img align="right" alt="SVG" src="https://github.com/RiPetitor/RiPetitor/blob/main/phoenix.svg" width="350px"/>
+<img align="right" alt="SVG" src="https://github.com/RiPetitor/RiPetitor/blob/main/phoenix.svg" width="300px"/>
   
 ### 📌 Обо мне:
 
