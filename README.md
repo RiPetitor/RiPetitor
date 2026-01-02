@@ -7,8 +7,8 @@
 <br/>
 <br/>
 
-<img align="right" alt="SVG" src="https://github.com/RiPetitor/RiPetitor/blob/main/phoenix.svg" width="250px"/>
-  
+<img align="right" alt="SVG" src="https://github.com/RiPetitor/RiPetitor/blob/main/phoenix.svg" width="200px"/>
+
 ### 📌 Обо мне:
 
 - 🔭 &nbsp; В настоящее время работаю над **rtop** - системным монитором для Linux с поддержкой GPU
