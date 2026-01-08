@@ -54,7 +54,14 @@ P.S - Хотел бы найти работу в сфере программир
 <a href="https://github.com/RiPetitor/rtop" target="_blank"> <img alt="rtop" src="https://cdn-icons-png.flaticon.com/512/3178/3178486.png" height="68" align="left"> </a>
 
 **rtop** - Системный монитор на базе терминала для Linux с поддержкой графического процессора, написанный на Rust. MIT License. Активно поддерживается и обновляется.
+<br>
+<br>
+<br>
 
+<a href="https://github.com/RiPetitor/zed-koda-agent" target="_blank"> <img alt="zed-koda-agent" src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" height="68" align="left"> </a>
+
+
+**zed-koda-agent** - Агент для работы с редактором Zed и инструментами разработки. В стадии активного развития.
 <br>
 <br>
 <br>
